@@ -1,4 +1,4 @@
-package com.example.api_pmdm_t02.data.model
+package com.example.qha_pmdm_2t.data.model
 
 import com.squareup.moshi.Json
 
