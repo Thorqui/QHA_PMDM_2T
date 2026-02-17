@@ -73,7 +73,7 @@ La aplicación consume el siguiente endpoint para obtener el listado de producto
 </div>
 <br>
 <div align="center">
-  <h3>🏷️ Detalle de Producto</h3>
+  <h3>📸 Vista General de la Aplicación</h3>
   <img src="./screenshots/PMDM_Creacion-proyecto-02.png" width="300" alt="Detalle de Card">
   <p><i>Generacion archivos</i></p>
 </div>
@@ -85,7 +85,7 @@ La aplicación consume el siguiente endpoint para obtener el listado de producto
 </div>
 <br>
 <div align="center">
-  <h3>🏷️ Detalle de Producto</h3>
+  <h3>📸 Vista General de la Aplicación</h3>
   <img src="./screenshots/PMDM_ClasesModel-04.png" width="300" alt="Detalle de Card">
 <p><i>Generacion archivos</i></p>
 </div>
@@ -97,7 +97,7 @@ La aplicación consume el siguiente endpoint para obtener el listado de producto
 </div>
 <br>
 <div align="center">
-  <h3>🏷️ Detalle de Producto</h3>
+  <h3>📸 Vista General de la Aplicación</h3>
   <img src="./screenshots/PMDM_Screen-Main-06.png" width="300" alt="Detalle de Card">
 <p><i>Generacion archivos</i></p>
 </div>
