@@ -66,12 +66,51 @@ La aplicación consume el siguiente endpoint para obtener el listado de producto
 
 ## 📸 Capturas de Pantalla
 
-Imagenes .PNG en carpeta screenshots
-
+<div align="center">
+  <h3>📸 Vista General de la Aplicación</h3>
+  <img src="./screenshots/PMDM_Creacion-proyecto.png" width="300" alt="Pantalla Principal">
+  <p><i>Creacion del proyecto</i></p>
+</div>
+<br>
+<div align="center">
+  <h3>🏷️ Detalle de Producto</h3>
+  <img src="./screenshots/PMDM_Creacion-proyecto-02.png" width="300" alt="Detalle de Card">
+  <p><i>Generacion archivos</i></p>
+</div>
+<br>
+<div align="center">
+  <h3>📸 Vista General de la Aplicación</h3>
+  <img src="./screenshots/PMDM_Creacion-proyecto-estructura-03.png" width="300" alt="Pantalla Principal">
+<p><i>Generacion archivos</i></p>
+</div>
+<br>
+<div align="center">
+  <h3>🏷️ Detalle de Producto</h3>
+  <img src="./screenshots/PMDM_ClasesModel-04.png" width="300" alt="Detalle de Card">
+<p><i>Generacion archivos</i></p>
+</div>
+<br>
+<div align="center">
+  <h3>📸 Vista General de la Aplicación</h3>
+  <img src="./screenshots/PMDM_Clases-05.png" width="300" alt="Pantalla Principal">
+<p><i>Generacion archivos</i></p>
+</div>
+<br>
+<div align="center">
+  <h3>🏷️ Detalle de Producto</h3>
+  <img src="./screenshots/PMDM_Screen-Main-06.png" width="300" alt="Detalle de Card">
+<p><i>Generacion archivos</i></p>
+</div>
+<br>
+<div align="center">
+  <h3>📸 Vista General de la Aplicación</h3>
+  <img src="./screenshots/PMDM_API-funcionando.png" width="300" alt="Pantalla Principal">
+  <p><i>Proyecto funcionando</i></p>
+</div>
 ---
 
 ## 👷 Autor
 
-* **Aitor Quilez Herrero** - *Desarrollo de Software Android* - [https://github.com/Thorqui/QHA_PMDM_2T.git]
+* **Aitor Quilez Herrero** - *Desarrollo de Software Android* - Enlace a GitHub -> [https://github.com/Thorqui/QHA_PMDM_2T.git]
 
 ---
