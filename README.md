@@ -66,11 +66,7 @@ La aplicación consume el siguiente endpoint para obtener el listado de producto
 
 ## 📸 Capturas de Pantalla
 
-|         Vista General (Lista)         | Detalle de Producto (Card) |
-|:-------------------------------------:| :---: |
-| ![Lista de Productos](C:\Users\Aitor\AndroidStudioProjects\QHA_PMDM_2T\screenshots\PMDM_API-funcionando.png) 
-| ![Diseño de Card](C:\Users\Aitor\AndroidStudioProjects\QHA_PMDM_2T\screenshots\PMDM_Creacion-proyecto-02.png) |
-
+Imagenes .PNG en carpeta screenshots
 
 ---
 
