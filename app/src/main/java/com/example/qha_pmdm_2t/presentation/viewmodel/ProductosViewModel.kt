@@ -5,7 +5,7 @@ import androidx.compose.runtime.mutableStateOf
 import androidx.compose.runtime.setValue
 import androidx.lifecycle.ViewModel
 import androidx.lifecycle.viewModelScope
-import com.example.api_pmdm_t02.presentation.viewmodel.UiState
+import com.example.qha_pmdm_2t.presentation.viewmodel.UiState
 import com.example.qha_pmdm_2t.data.model.ProductoDto
 import com.example.qha_pmdm_2t.data.remote.ProductosNetWork
 import com.example.qha_pmdm_2t.data.repository.ProductosRepository
