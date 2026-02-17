@@ -58,8 +58,8 @@ fun ProductosScreen(vm: ProductosViewModel) {
             CenterAlignedTopAppBar(
                 title = {
                     Column(horizontalAlignment = Alignment.CenterHorizontally) {
-                        Text("MERCADO DIGITAL", fontWeight = FontWeight.ExtraBold, letterSpacing = 2.sp)
-                        Text("API PRODUCTS", style = MaterialTheme.typography.labelSmall, color = MaterialTheme.colorScheme.primary)
+                        Text("Aitor Quilez Herrero - PMDM", fontWeight = FontWeight.ExtraBold, letterSpacing = 2.sp)
+                        Text("API PRODUCTS", style = MaterialTheme.typography.labelSmall, color = MaterialTheme.colorScheme.surface)
                     }
                 },
                 colors = TopAppBarDefaults.centerAlignedTopAppBarColors(
@@ -102,7 +102,7 @@ fun ProductoItem(producto: ProductoDto) {
         modifier = Modifier
             .fillMaxWidth()
             .padding(vertical = 4.dp),
-        shape = RoundedCornerShape(topStart = 28.dp, bottomEnd = 28.dp), // Forma asimétrica moderna
+        shape = RoundedCornerShape(topStart = 28.dp, bottomEnd = 28.dp),
         colors = CardDefaults.cardColors(
             containerColor = backgroundColor
         ),
